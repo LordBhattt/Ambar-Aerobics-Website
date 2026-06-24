@@ -241,7 +241,7 @@ function initContactForm() {
       waText += `%0AMessage: ${message}`;
     }
 
-    const waURL = `https://wa.me/919321065529?text=${waText}`;
+    const waURL = `https://wa.me/919321055259?text=${waText}`;
     window.open(waURL, '_blank');
   });
 }
